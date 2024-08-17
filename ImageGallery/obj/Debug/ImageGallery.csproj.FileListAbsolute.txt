@@ -1,0 +1,9 @@
+C:\Димитрије\Програмирање\Моји Пројекти\ImageGallery\ImageGallery\bin\Debug\ImageGallery.exe.config
+C:\Димитрије\Програмирање\Моји Пројекти\ImageGallery\ImageGallery\bin\Debug\ImageGallery.exe
+C:\Димитрије\Програмирање\Моји Пројекти\ImageGallery\ImageGallery\bin\Debug\ImageGallery.pdb
+C:\Димитрије\Програмирање\Моји Пројекти\ImageGallery\ImageGallery\obj\Debug\ImageGallery.csprojAssemblyReference.cache
+C:\Димитрије\Програмирање\Моји Пројекти\ImageGallery\ImageGallery\obj\Debug\ImageGallery.Form1.resources
+C:\Димитрије\Програмирање\Моји Пројекти\ImageGallery\ImageGallery\obj\Debug\ImageGallery.Properties.Resources.resources
+C:\Димитрије\Програмирање\Моји Пројекти\ImageGallery\ImageGallery\obj\Debug\ImageGallery.csproj.GenerateResource.cache
+C:\Димитрије\Програмирање\Моји Пројекти\ImageGallery\ImageGallery\obj\Debug\ImageGallery.exe
+C:\Димитрије\Програмирање\Моји Пројекти\ImageGallery\ImageGallery\obj\Debug\ImageGallery.pdb
